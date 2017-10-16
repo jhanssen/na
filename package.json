@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "lame": "^1.2.4",
     "speaker": "^0.4.0"
   }
 }
