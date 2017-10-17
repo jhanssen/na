@@ -10,7 +10,11 @@
   "license": "MIT",
   "dependencies": {
     "@jhanssen/flac": "^1.0.0",
+    "@jhanssen/ipc": "^1.0.2",
+    "daemon": "^1.1.0",
+    "homedir": "^0.6.0",
     "lame": "^1.2.4",
+    "minimist": "^1.2.0",
     "musicmetadata": "^2.0.5",
     "speaker": "^0.4.0"
   }
