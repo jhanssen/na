@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@jhanssen/flac": "^1.0.0",
+    "@jhanssen/flac": "^1.0.1",
     "@jhanssen/ipc": "^1.0.2",
     "ansi-256-colors": "^1.1.0",
     "daemon": "^1.1.0",
