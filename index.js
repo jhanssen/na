@@ -1,5 +1,7 @@
 /*global require,process*/
 
+"use strict";
+
 const daemon = require("./lib/daemon");
 const argv = require("minimist")(process.argv.slice(2));
 
