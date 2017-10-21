@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@jhanssen/flac": "^1.0.1",
+    "@jhanssen/flac": "^1.0.2",
     "@jhanssen/ipc": "^1.0.2",
     "ansi-escapes": "^3.0.0",
     "app-root-path": "^2.0.1",
