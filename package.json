@@ -12,6 +12,7 @@
     "@jhanssen/flac": "^1.0.1",
     "@jhanssen/ipc": "^1.0.2",
     "ansi-escapes": "^3.0.0",
+    "app-root-path": "^2.0.1",
     "chalk": "^2.2.0",
     "daemon": "^1.1.0",
     "homedir": "^0.6.0",

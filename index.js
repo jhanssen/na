@@ -2,7 +2,8 @@
 
 "use strict";
 
-const daemon = require("./lib/daemon");
+const appRoot = require("app-root-path");
+const daemon = require(appRoot + "/lib/daemon");
 const argv = require("minimist")(process.argv.slice(2));
 
 if (argv.daemon === false) {
