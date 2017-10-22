@@ -11,6 +11,7 @@
   "dependencies": {
     "@jhanssen/flac": "^1.0.2",
     "@jhanssen/ipc": "^1.0.2",
+    "@jhanssen/multiply-pcm": "^1.0.1",
     "ansi-escapes": "^3.0.0",
     "app-root-path": "^2.0.1",
     "chalk": "^2.2.0",
